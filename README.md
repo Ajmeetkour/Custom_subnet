@@ -82,4 +82,5 @@ We have successfully created a custom virtual machine to handle token minting an
 
 ## Authors
 Ajmeet
-
+## LICENSE
+This project is licensed under the MIT License - see the LICENSE.md file in details.
